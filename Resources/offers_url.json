@@ -1,0 +1,149 @@
+[
+    [
+        {
+            "seniority[]": 9
+        },
+        200,
+        null
+    ],
+    [
+        {
+            "seniority[]": "1,9"
+        },
+        200,
+        "\"https:\\/\\/www.startupjobs.cz\\/nabidky?seniorita=junior\""
+    ],
+    [
+        {
+            "seniority[]": "1"
+        },
+        200,
+        "\"https:\\/\\/www.startupjobs.cz\\/nabidky?seniorita=junior\""
+    ],
+    [
+        {
+            "collaboration[]": 9000
+        },
+        200,
+        null
+    ],
+    [
+        {
+            "collaboration[]": 9
+        },
+        200,
+        "\"https:\\/\\/www.startupjobs.cz\\/nabidky?forma-spoluprace=freelance\""
+    ],
+    [
+        {
+            "collaboration[]": "1,9999"
+        },
+        200,
+        "\"https:\\/\\/www.startupjobs.cz\\/nabidky?forma-spoluprace=freelance\""
+    ],
+    [
+        {
+            "area[]": 9000
+        },
+        200,
+        null
+    ],
+    [
+        {
+            "area[]": 1
+        },
+        200,
+        "\"https:\\/\\/www.startupjobs.cz\\/nabidky\\/vyvoj\""
+    ],
+    [
+        {
+            "area[]": "1,9999"
+        },
+        200,
+        null
+    ],
+    [
+        {
+            "language[]": 9000
+        },
+        200,
+        null
+    ],
+    [
+        {
+            "language[]": 1
+        },
+        200,
+        "\"https:\\/\\/www.startupjobs.cz\\/nabidky?jazyk=angli%C4%8Dtina\""
+    ],
+    [
+        {
+            "language[]": "1,98745"
+        },
+        200,
+        "\"https:\\/\\/www.startupjobs.cz\\/nabidky?jazyk=angli%C4%8Dtina\""
+    ],
+    [
+        {
+            "company[]": 9000
+        },
+        200,
+        null
+    ],
+    [
+        {
+            "company[]": 1
+        },
+        200,
+        "\"https:\\/\\/www.startupjobs.cz\\/nabidky?startup=brand-embassy\""
+    ],
+    [
+        {
+            "company[]": "1,125487"
+        },
+        200,
+        "\"https:\\/\\/www.startupjobs.cz\\/nabidky?startup=brand-embassy\""
+    ],
+    [
+        {
+            "technological-tag[]": 9000
+        },
+        200,
+        "\"https:\\/\\/www.startupjobs.cz\\/nabidky\""
+    ],
+    [
+        {
+            "technological-tag[]": 1
+        },
+        200,
+        "\"https:\\/\\/www.startupjobs.cz\\/nabidky?technologie=net\""
+    ],
+    [
+        {
+            "technological-tag[]": "1,548787"
+        },
+        200,
+        "\"https:\\/\\/www.startupjobs.cz\\/nabidky?technologie=net\""
+    ],
+    [
+        {
+            "salary[]": 9000
+        },
+        200,
+        "\"https:\\/\\/www.startupjobs.cz\\/nabidky?pouze-s-odmenou=9000\""
+    ],
+    [
+        {
+            "salary[]": "1,9876"
+        },
+        200,
+        "\"https:\\/\\/www.startupjobs.cz\\/nabidky?pouze-s-odmenou=1,9876\""
+    ],
+    [
+        {
+            "location[]": "ChIJi3lwCZyTC0cR"
+        },
+        200,
+        "\"https:\\/\\/www.startupjobs.cz\\/nabidky\""
+    ]
+]

@@ -1,0 +1,11 @@
+
+version: '3.8'
+services:
+    startup-jobs-checks:
+        build: .
+        image: startup-jobs-checks:latest
+        container_name: startup-jobs-checks
+        stdin_open: true
+        tty: true        
+        env_file:
+            - .env
