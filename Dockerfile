@@ -3,12 +3,11 @@ FROM python:3.9-slim-buster
 LABEL author="Pavel Saman"
 LABEL maintainer="samanpavel@gmail.com"
 LABEL description="Docker pytest"
-LABEL version="1.0"
+LABEL version="1.1"
 
 # install necessary packages
 RUN apt-get update \
-    && apt-get -y install \
-    && apt-get install -y unixodbc-dev g++ curl gnupg
+    && apt-get -y install
 
 WORKDIR /tests
 
